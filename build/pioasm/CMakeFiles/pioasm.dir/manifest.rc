@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/sjors/OneDrive/Documents/Programming/PICOSDK/piPicoProjectOne/build/pioasm/CMakeFiles/pioasm.dir/embed.manifest"
